@@ -1,0 +1,15 @@
+GHIDRA_PATH = 'YOUR GHIDRA_HEADLESS PATH'
+GHIDRA_PLUGIN_PATH = ''
+GHIDRA_BINEXPORT_PATH = ''
+GHIDRA_FUNCTION_DATA_PATH = './ghidra_function_data/'
+GHIDRA_TEMP_PROJECT_NAME = "ghidra_project"
+GHIDRA_TIMEOUT = '300'
+GHIDRA_SCRIPT_NAME = 'sample_functions_cpy.py'
+GHIDRA_LOG = './log'
+
+BINDIFF_PATH = 'YOUR BINDIFF PATH'
+
+SAMPLE_FUNCTION_ADDRESS_CSV = 'sample_functions_addresses.csv'
+
+BASE_DIR = './output'
+BINDIFF_EXPORT_PATH = './binExport/'
