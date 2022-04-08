@@ -4,11 +4,13 @@ bindiff using ghidra decompiler
 
 needs:
 - python3
+- bindiff
 - Ghidra
 - Ghidra binexport plugin
 
 how to use?:
- 1. install Ghidra and Ghidra plugin(binexport)
+ 1. install bindiff, Ghidra and Ghidra plugin(binexport)
+    > [bindiff](https://www.zynamics.com/bindiff.html)
     > [ghidra](https://ghidra-sre.org/)
     > [ghidra plugin(binexport)](https://github.com/google/binexport)
  2. Enter the path to ghidra headless in your config file.
